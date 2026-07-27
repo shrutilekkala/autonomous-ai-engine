@@ -7,3 +7,4 @@ target/
 dbt_packages/
 logs/
 .DS_Store
+eda/eda_outputs/
