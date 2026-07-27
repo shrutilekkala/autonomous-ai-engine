@@ -1,0 +1,15 @@
+version: 2
+sources:
+  - name: raw
+    schema: main
+    tables:
+      - name: raw_stores
+      - name: raw_products
+      - name: raw_suppliers
+      - name: raw_promotions
+      - name: raw_store_layout
+      - name: raw_stockout_events
+      - name: raw_inventory_snapshots
+      - name: raw_replenishment_logs
+      - name: raw_sales_transactions
+      - name: raw_demand_forecasts
