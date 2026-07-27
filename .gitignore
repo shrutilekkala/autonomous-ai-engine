@@ -10,3 +10,4 @@ logs/
 eda/eda_outputs/
 ml/*.pkl
 ml/*.parquet
+alerts/alert_logs/
